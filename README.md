@@ -8,7 +8,7 @@ Step 1: Install and Activate the Plugin
 Step 2: Configure and Customize the Form  
 Start with Settings  
 Create Services  
-Adding staffs 
+Adding staffs   
 Create a new form with booking forms  
 Email Notifications  
 In Conclusion  
